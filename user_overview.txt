@@ -1,0 +1,52 @@
+Total Users: 7
+Total Tasks: 4
+
+User: admin
+Total Assigned Tasks: 2
+Percentage of Total Tasks: 50.00%
+Percentage Completed Tasks: 50.00%
+Percentage Incomplete Tasks: 50.00%
+Percentage Overdue and Incomplete Tasks: 0.00%
+
+User: tsatsi
+Total Assigned Tasks: 1
+Percentage of Total Tasks: 25.00%
+Percentage Completed Tasks: 0.00%
+Percentage Incomplete Tasks: 100.00%
+Percentage Overdue and Incomplete Tasks: 0.00%
+
+User: tsotsi
+Total Assigned Tasks: 0
+Percentage of Total Tasks: 0.00%
+Percentage Completed Tasks: 0.00%
+Percentage Incomplete Tasks: 0.00%
+Percentage Overdue and Incomplete Tasks: 0.00%
+
+User: ali
+Total Assigned Tasks: 0
+Percentage of Total Tasks: 0.00%
+Percentage Completed Tasks: 0.00%
+Percentage Incomplete Tasks: 0.00%
+Percentage Overdue and Incomplete Tasks: 0.00%
+
+User: Thabo
+Total Assigned Tasks: 0
+Percentage of Total Tasks: 0.00%
+Percentage Completed Tasks: 0.00%
+Percentage Incomplete Tasks: 0.00%
+Percentage Overdue and Incomplete Tasks: 0.00%
+
+User: that
+Total Assigned Tasks: 0
+Percentage of Total Tasks: 0.00%
+Percentage Completed Tasks: 0.00%
+Percentage Incomplete Tasks: 0.00%
+Percentage Overdue and Incomplete Tasks: 0.00%
+
+User: hello
+Total Assigned Tasks: 0
+Percentage of Total Tasks: 0.00%
+Percentage Completed Tasks: 0.00%
+Percentage Incomplete Tasks: 0.00%
+Percentage Overdue and Incomplete Tasks: 0.00%
+
